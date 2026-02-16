@@ -1,0 +1,8 @@
+[package]
+name = "secret-rare/threads-client"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+license = "GPL-3.0"
+realm = "server"
+
+[dependencies]

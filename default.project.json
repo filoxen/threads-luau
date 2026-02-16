@@ -1,0 +1,6 @@
+{
+	"name": "threads-client",
+	"tree": {
+		"$path": "src"
+	}
+}
