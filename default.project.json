@@ -1,6 +1,6 @@
 {
-	"name": "threads-client",
-	"tree": {
-		"$path": "src"
-	}
+  "name": "threads-luau",
+  "tree": {
+    "$path": "src"
+  }
 }

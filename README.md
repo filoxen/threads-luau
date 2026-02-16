@@ -8,7 +8,7 @@ Add to your `wally.toml` dependencies:
 
 ```toml
 [server-dependencies]
-ThreadsClient = "secret-rare/threads-client@0.1.0"
+ThreadsClient = "secret-rare/threads-luau@0.2.0"
 ```
 
 Then run:
