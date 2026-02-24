@@ -2,7 +2,7 @@
 name = "secret-rare/threads-luau"
 version = "0.3.0"
 registry = "https://github.com/UpliftGames/wally-index"
-license = "GPL-3.0"
+license = "MIT"
 realm = "server"
 
 [dependencies]
